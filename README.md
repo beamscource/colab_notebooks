@@ -12,12 +12,10 @@ Part I:
 
 Part IIa:
 - deep learning libraries (PyTorch, PyTorch Lightning) 
-- Hugging Face Transformers
-- model development
-- data drift
+- model development (training, experiment logging, EDA, data drift, etc)
+- Hugging Face with PyTorch
+- PyTorch on AWS SageMaker
 
 Part IIb:
-- applications in the field of language technology (NLU, QA, TTS, NMT)
-- Machine Learning Systems Design 
-- AWS SageMaker
-- Web apps for deploying ML solutions
+- applications in the field of language technology (Neural NLU, QA, TTS)
+- Machine Learning Systems Design and MLOps
