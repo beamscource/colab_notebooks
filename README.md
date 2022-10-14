@@ -1,7 +1,7 @@
 # Applied Science Curriculum
 A collection of my personal summary notes of different books and courses I've completed to fullfil a basic applied science curriculum with a focus on deep learning and NLP.
 
-The list of topics covered/planned:
+The list of topics covered:
 
 Part I:
 - Mathematical concepts used for Machine Learning 
