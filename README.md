@@ -8,7 +8,6 @@ Part I:
 - Machine Learning Concepts
 - Deep Learning Architectures (MLP, CNN, RNN/LSTM, Transformer)
 - Algorithms and Data Structures
-- Leetcode questions and solutions
 
 Part IIa:
 - deep learning libraries (PyTorch, PyTorch Lightning) 
@@ -19,3 +18,7 @@ Part IIa:
 Part IIb:
 - applications in the field of language technology (Neural NLU, QA, TTS)
 - Machine Learning Systems Design and MLOps
+
+Part III:
+- Leetcode questions and solutions
+- ML interview preparation
