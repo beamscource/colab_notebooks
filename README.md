@@ -14,6 +14,7 @@ Part IIa:
 - model development (training, experiment logging, EDA, data drift, etc)
 - Hugging Face with PyTorch
 - PyTorch on AWS SageMaker
+- Weights and Biases
 
 Part IIb:
 - applications in the field of language technology (Neural NLU, QA, TTS)
@@ -22,3 +23,12 @@ Part IIb:
 Part III:
 - Leetcode questions and solutions
 - ML interview preparation
+
+Current preparation path:
+- pyTorch
+- HF
+- MLP/RNN/LSTM/Transformer
+- Transformer with Lightning
+- ML basics
+- AWS + FineTuning
+- weights and biases
